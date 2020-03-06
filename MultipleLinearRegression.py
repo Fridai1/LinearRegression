@@ -7,6 +7,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import explained_variance_score 
 from sklearn.metrics import max_error
 from sklearn.metrics import r2_score
+from sklearn.metrics import mean_squared_error
 
 
 # importing Dataset
