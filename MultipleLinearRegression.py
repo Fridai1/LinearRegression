@@ -27,9 +27,9 @@ y_pred = regressor.predict(X_test)
 
 
 
-# accuracy in %
+
 explained_variance_score(y_test, y_pred)
 max_error(y_test, y_pred)
 r2_score(y_test, y_pred)
-
+mean_squared_error(y_test,y_pred)
 
